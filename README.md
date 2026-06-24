@@ -225,16 +225,6 @@ student-performance-prediction/
 
 ## How to Run
 
-### Option 1: Google Colab (Recommended)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O9JtR55L-NAfZNJxrSV4hVX1N0ycCRWa?usp=sharing)
-
-1. Open the notebook in Google Colab
-2. Upload the dataset when prompted
-3. Run all cells sequentially
-
-### Option 2: Local Setup
-
 ```bash
 # Clone the repository
 git clone https://github.com/Rolw4-53872/student-performance-prediction.git
