@@ -253,3 +253,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Dataset: [Students Grading Dataset](https://www.kaggle.com/datasets/omerckn/students-grading-dataset) on Kaggle
 - Built as part of a Data Analysis course project
+
+---
+
+## Author
+
+**Rola Alsulami**
+- GitHub: [@Rolw4-53872](https://github.com/Rolw4-53872)
+- Email: rolwalsulami@gmail.com
